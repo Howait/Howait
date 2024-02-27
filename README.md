@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+🌱 I’m currently learning about Fullstack Development and  working on some projects to get a better portfolio and knowledge in this area.
+I want to find some groups and projects in github to see how people think and resolve problems, this community is incredible and octocat is my hero 🙏 .
 <!--
 **Howait/Howait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
