@@ -38,8 +38,7 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Howait&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howait&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img src="https://streak-stats.demolab.com?user=Howait&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
