@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Olá! Eu sou o Lucas 👋</h1>
   <p><i>Desenvolvedor de Software / Engenheiro de IA</i></p>
 
   <!-- Animação da Cobrinha -->
