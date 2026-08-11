@@ -34,11 +34,14 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
-
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Howait&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="./profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Detalhes do Perfil" width="48%" />
+  <img src="./profile-summary-card-output/solarized_dark/3-stats.svg" alt="Estatísticas Principais" width="48%" />
+  <br/><br/>
+  <img src="./profile-summary-card-output/solarized_dark/1-repos-per-language.svg" alt="Repositórios por Linguagem" width="48%" />
+  <img src="./profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Linguagens mais Utilizadas" width="48%" />
 </div>
 
 ---
