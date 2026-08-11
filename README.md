@@ -14,13 +14,13 @@
 
 ### Sobre Mim
 
-- 🛠️ Especializado no desenvolvimento de **APIs REST de alta performance, automações web e arquiteturas com IA**.
-- 💡 Experiência em integração de **WebSockets em tempo real**, raspagem/automação de navegadores com **Playwright** e gerenciamento de microsserviços.
-- 🔭 Atualmente criando soluções escaláveis com **FastAPI, Python, Next.js e TypeScript**.
+- Especializado no desenvolvimento de **APIs REST de alta performance, automações web e arquiteturas com IA**.
+- Experiência em integração de **WebSockets em tempo real**, raspagem/automação de navegadores com **Playwright** e gerenciamento de microsserviços.
+- Atualmente criando soluções escaláveis com **FastAPI, Python, Next.js e TypeScript**.
 
 ---
 
-### 🛠️ Stacks & Tecnologias
+### Stacks & Tecnologias
 
 #### Backend & Automações
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,21 +44,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="./profile-summary-card-output/solarized_dark/0-profile-details.svg" alt="Detalhes do Perfil" width="48%" />
-  <img src="./profile-summary-card-output/solarized_dark/3-stats.svg" alt="Estatísticas Principais" width="48%" />
-  <br/><br/>
-  <img src="./profile-summary-card-output/solarized_dark/1-repos-per-language.svg" alt="Repositórios por Linguagem" width="48%" />
-  <img src="./profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Linguagens mais Utilizadas" width="48%" />
-</div>
-
----
-
-### 📫 Como me encontrar
+### Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johannesguerra97@gmail.com)
